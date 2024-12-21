@@ -105,7 +105,7 @@ nav {
     color: #626D73; 
 }
 .shop {
-    width: 1347px;
+    width: 1331px;
     position: absolute;
     top: 240%;
     left: -195px;
@@ -113,37 +113,37 @@ nav {
     padding-bottom: 60px;
     opacity: 0;
     visibility: hidden;
-    transition: 0.5s;
+    transition: 0.5s; 
     background-color: #FFFFFF;
     z-index: 1;
 }
 .nav-menu:hover .shop {
     opacity: 1;
     visibility: visible;
-}
+} 
 .shop1  {
-    width: 1347px;
+    width: 1331px;
     position: absolute;
     top: 240%;
     left: -296px;
     background-color: #FFFFFF;
 }
 .shop2  {
-    width: 1347px;
+    width: 1331px;
     position: absolute;
     top: 240%;
     left: -484px;
     background-color: #FFFFFF;
 }
 .shop3  {
-    width: 1348px;
+    width: 1320px;
     position: absolute;
     top: 240%;
     left: -615px;
     background-color: #FFFFFF;
 }
 .shop4  {
-    width: 1350px;
+    width: 1331px;
     position: absolute;
     top: 240%;
     left: -1166px;
